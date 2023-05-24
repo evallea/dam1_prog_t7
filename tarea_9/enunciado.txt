@@ -1,0 +1,3 @@
+Modifica EjemploXML para generar un archivo XML con una estructura similar al ejemplo subido pero con otros atributos y etiquetas.
+Modifica el Ejemplo DOM para leer el fichero que has generado.
+Una vez leído el fichero debes almacenar todos los elementos en un array y recorrerlo para mostrarlos por pantalla.
